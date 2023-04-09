@@ -1,9 +1,7 @@
 ---
-layout: post
+layout: posts
 title:  "I have a blog!"
 ---
-
-# Welcome
 
 **Hello world**, this is my first Jekyll blog post.
 
